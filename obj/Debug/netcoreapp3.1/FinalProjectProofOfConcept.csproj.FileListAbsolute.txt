@@ -1,0 +1,13 @@
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.exe
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.deps.json
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.runtimeconfig.json
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.runtimeconfig.dev.json
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.dll
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\bin\Debug\netcoreapp3.1\FinalProjectProofOfConcept.pdb
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.AssemblyInfo.cs
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.dll
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.pdb
+C:\Users\Craig\source\repos\FinalProjectProofOfConcept\FinalProjectProofOfConcept\obj\Debug\netcoreapp3.1\FinalProjectProofOfConcept.genruntimeconfig.cache
